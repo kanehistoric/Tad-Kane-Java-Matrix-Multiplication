@@ -11,7 +11,7 @@ public class MatrixMultiplication
     public static void main(String[] args) 
     {
         Scanner input = new Scanner(System.in);
-        
+        System.out.println("This program does Matrix Multiplication.");
         //Rows and Columns for Matrix A
         out.println("Array A:  How many rows? ");
         int rowA = input.nextInt();
